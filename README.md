@@ -1,3 +1,7 @@
+Program.cs
+print(f'Follow {dmegzontop} on Github')
+
+
 # ABOUT ME:
 ⌛️・First a wall I have no bxtches and I am 0001 years old
 
