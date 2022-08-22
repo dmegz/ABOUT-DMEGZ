@@ -4,3 +4,5 @@
 📩・dmegz1337@gmail.com ・ fdex#1337
 
 I am worst nigga at coding who started coding at 2022 lmao
+
+PY, C#, HTML
